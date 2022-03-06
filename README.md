@@ -1,23 +1,28 @@
 <!-- TITLE -->
 # Adicionadores de Eventos (OneClick)
 
+```html
+    onclick="alert('Clicou')"
+```
+
 * ***onclick***
+
 > Ao clicar ele faz o que esta depois de =(igual) e exibi o que tem dentro do parenteses.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
-<!-- - [Vista por cima](#vista-por-cima) -->
-<!--  - [Foto da tela](#foto-da-tela) -->
-<!--  - [Links](#links) -->
-<!-- - [Meu processo](#meu-processo) -->
-<!--  - [Contruido com](#construido-com) -->
-<!--  - [O que aprendi](#o-que-aprendi) -->
-<!--  - [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  - [Recusos úteis](#recursos-úteis) -->
-<!-- - [Autor](#autor) -->
-<!-- - [Agradecimentos](#agradecimentos) -->
-- [Informações](#informações)
+<!-- * [Vista por cima](#vista-por-cima) -->
+<!--  * [Foto da tela](#foto-da-tela) -->
+<!--  * [Links](#links) -->
+<!-- * [Meu processo](#meu-processo) -->
+<!--  * [Contruido com](#construido-com) -->
+<!--  * [O que aprendi](#o-que-aprendi) -->
+<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
+<!--  * [Recusos úteis](#recursos-úteis) -->
+<!-- * [Autor](#autor) -->
+<!-- * [Agradecimentos](#agradecimentos) -->
+* [Informações](#informações)
 
 <!-- OVERVIEW -->
 <!-- ## VISTA POR CIMA -->
